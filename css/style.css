@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Open+Sans&display=swap');
+
+.h1font{
+    font-family: 'Fredoka One', cursive;
+    color: #ece2d0;
+    font-size: 30px;
+}
+
+.navfont{
+    font-family: 'Fredoka One', cursive;
+    color: #ece2d0;
+}
+.dropdownbackground{
+    background-color: #9D2020;
+    border: #9D2020;
+}
+
+.navbar{
+    background-color: #9D2020;
+}
+
+.section{
+    background-color: #9D2020;
+}
+
+.fondo {
+    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0,0,0, .7)), url('../img/main-background-slide-1.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#main .container {
+    height: 100vh;
+}
+
+.footerbackground{
+    background-color: #9D2020;
+}
+
+.footerfont{
+    color: #ece2d0;
+}
